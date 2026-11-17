@@ -7,11 +7,11 @@ This is a text-based blackjack game written in Python. The player has seven days
 ## How to Run the Game
 
 1. Make sure Python 3 is installed on your computer.  
-2. Save the game code in a file named blackjack\_week.py.  
-3. Open a terminal in the folder containing the file.  
+2. Save both python files in the same folder.
+3. Open a terminal in the folder containing both files.  
 4. Run the following command in bash:
-
-   python blackjack\_week.py
+   python blackjack.py
+5. Make sure that both files remain in the same folder so Python can properly locate and import called functions
 
 ## How to Play
 
